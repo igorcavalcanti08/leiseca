@@ -1,0 +1,782 @@
+{
+ "Excel: fórmulas e funções": {
+  "colunas": [
+   "Item",
+   "Regra",
+   "Exemplo",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "; × :",
+    "; separa argumentos; : indica intervalo",
+    "SOMA(B1;C3) = 2 células; SOMA(B1:C3) = 6 células",
+    "VUNESP troca um pelo outro dentro da SE"
+   ],
+   [
+    "SE / E / OU",
+    "SE(teste; se V; se F)",
+    "E = todos V; OU = ao menos um V",
+    "um único F derruba o E"
+   ],
+   [
+    "MAIOR / MENOR",
+    "k-ésimo maior / menor",
+    "MAIOR(A1:C3;2) = 2º maior",
+    "não é soma dos k maiores"
+   ],
+   [
+    "PROCV",
+    "(valor; matriz; coluna; [FALSO])",
+    "valor procurado vem 1º",
+    "sem o 4º argumento = aproximada; travar linhas com $"
+   ],
+   [
+    "CONCATENAR / &",
+    "junta sem separador",
+    "(B2;\"-\";C2) → Planejamento-André",
+    "\"casa\",\"de\",\"barro\" → casadebarro"
+   ],
+   [
+    "CONT.SE × SOMASE",
+    "conta × soma",
+    "SOMASE(critério_em; \"X\"; soma_em)",
+    "critério com operador entre aspas: \">5\""
+   ],
+   [
+    "$",
+    "$A1 fixa coluna; A$1 fixa linha; $A$1 ambos",
+    "=A1*$B$1 em C1 → D2: =B2*$B$1",
+    ""
+   ],
+   [
+    "Inserir coluna",
+    "entra À ESQUERDA da selecionada",
+    "C vira D",
+    "guia da planilha: cor, renomear, mover, ocultar"
+   ]
+  ]
+ },
+ "Word: formatação e recursos": {
+  "colunas": [
+   "Recurso",
+   "Regra",
+   "Atalho / caminho",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Negrito/itálico/sublinhado",
+    "liga e desliga; vale para o que se digita",
+    "Ctrl+N / Ctrl+I / Ctrl+S",
+    "cursor no meio da palavra → aplica à palavra inteira"
+   ],
+   [
+    "Desfazer",
+    "só a última ação",
+    "Ctrl+Z (refazer: Ctrl+Y)",
+    "tachado depois de sublinhado: Ctrl+Z tira só o tachado"
+   ],
+   [
+    "Sobrescrito × subscrito",
+    "acima (m²) × abaixo (H₂O)",
+    "Ctrl+Shift+= × Ctrl+=",
+    "versalete = maiúsculas pequenas"
+   ],
+   [
+    "Lista numerada",
+    "botão DIREITO no número",
+    "Definir valor de numeração",
+    "não é botão esquerdo"
+   ],
+   [
+    "Senha",
+    "Arquivo > Informações > Proteger Documento",
+    "Criptografar com Senha",
+    ""
+   ],
+   [
+    "Formas",
+    "Avançar = 1 camada",
+    "Trazer para a Frente = todas",
+    "Recuar × Enviar para Trás"
+   ],
+   [
+    "Atalhos PT-BR",
+    "Ctrl+B salvar; Ctrl+E centralizar; Ctrl+J justificar",
+    "Ctrl+Enter quebra de página",
+    "Ctrl+B não é negrito"
+   ]
+  ]
+ },
+ "Windows: atalhos, arquivos e área de transferência": {
+  "colunas": [
+   "Atalho / recurso",
+   "Faz o quê",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Win+Tab",
+    "Visão de Tarefas",
+    "nova área de trabalho virtual",
+    "não é o menu Iniciar"
+   ],
+   [
+    "Win+V",
+    "histórico da área de transferência",
+    "até 25 itens; fixados sobrevivem a Limpar",
+    "Office: 24 itens"
+   ],
+   [
+    "Win+D / Win+E / Win+L / Win+I",
+    "área de trabalho / Explorador / bloquear / Configurações",
+    "Win+Shift+S captura",
+    ""
+   ],
+   [
+    "Delete × Shift+Delete",
+    "Lixeira × exclusão definitiva",
+    "atalho quebra até restaurar no mesmo local",
+    "excluir o arquivo não apaga o atalho"
+   ],
+   [
+    "Pasta (Propriedades)",
+    "Somente leitura e Oculto",
+    "Avançados: compactar e criptografar",
+    ""
+   ],
+   [
+    "Menu da pasta (Win 11)",
+    "Fixar no Acesso rápido, Fixar em Iniciar",
+    "Copiar como caminho",
+    "não existe \"Copiar como atalho\""
+   ]
+  ]
+ },
+ "E-mail e Internet": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Cc × Cco",
+    "Cc visível; Cco oculto para todos",
+    "Cco não vê outros Cco",
+    "Responder a todos nunca alcança Cco"
+   ],
+   [
+    "Responder × Encaminhar",
+    "responder não leva anexos",
+    "encaminhar leva",
+    "vários anexos cabem numa só mensagem"
+   ],
+   [
+    "Re: / Fwd: Enc:",
+    "resposta / encaminhamento",
+    "prefixo novo entra à esquerda",
+    "não indicam anexo"
+   ],
+   [
+    "URL",
+    "protocolo://domínio:porta/caminho?consulta#fragmento",
+    "HTTP 80, HTTPS 443",
+    "query string é opcional"
+   ],
+   [
+    "Google",
+    "\"exata\", -exclui, * curinga, site:, intitle:, allintext:",
+    "allintext: = todas no corpo",
+    "intext: vale só para a palavra seguinte"
+   ],
+   [
+    "Anônima",
+    "não guarda histórico, cookies, formulários",
+    "downloads e favoritos ficam",
+    "não esconde do provedor"
+   ]
+  ]
+ },
+ "Teams e OneDrive": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Canais",
+    "padrão (todos), privado (subgrupo), compartilhado (inclui externos)",
+    "Moderação: só no padrão",
+    ""
+   ],
+   [
+    "Menção",
+    "@nome",
+    "notifica o usuário",
+    "não é #nome"
+   ],
+   [
+    "Reunião",
+    "Compartilhar = mostrar tela",
+    "Exibição: Galeria, Modo Juntos",
+    "recorrência não tem \"de hora em hora\""
+   ],
+   [
+    "Cofre Pessoal",
+    "verificação extra; bloqueia após 20 min",
+    "gratuito: até 3 arquivos",
+    "não compartilha"
+   ],
+   [
+    "Ícones",
+    "nuvem = só online",
+    "✓ vazado = local (pode ser liberado)",
+    "✓ cheio = sempre manter"
+   ],
+   [
+    "Configurações",
+    "Sincronizar e fazer backup, Conta, Notificações, Sobre",
+    "limitar taxa de upload/download",
+    ""
+   ]
+  ]
+ },
+ "Crase": {
+  "colunas": [
+   "Situação",
+   "Crase?",
+   "Exemplo",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Masculino, verbo, pronome pessoal",
+    "não",
+    "a pé, a trabalhar, a ela",
+    ""
+   ],
+   [
+    "Tratamento, indefinidos",
+    "não",
+    "a Vossa Excelência, a qualquer hora, a quem",
+    ""
+   ],
+   [
+    "\"a\" singular + plural",
+    "não",
+    "a processos",
+    "\"às\" só se o plural for feminino"
+   ],
+   [
+    "Locução feminina, horas",
+    "sim",
+    "à procura de; às 14h; das 9h às 12h",
+    "de 9h a 12h (sem nos dois)"
+   ],
+   [
+    "aquele(a), a que",
+    "sim",
+    "àquela servidora; semelhante à que",
+    "à que = àquela que"
+   ],
+   [
+    "Possessivo feminino",
+    "facultativa",
+    "à/a sua chefe",
+    ""
+   ]
+  ]
+ },
+ "Concordância verbal e nominal": {
+  "colunas": [
+   "Caso",
+   "Regra",
+   "Certo",
+   "Errado"
+  ],
+  "linhas": [
+   [
+    "Haver = existir",
+    "singular, inclusive o auxiliar",
+    "Havia processos; Deve haver limites",
+    "Haviam; Devem haver"
+   ],
+   [
+    "Fazer (tempo)",
+    "singular",
+    "Faz dois anos",
+    "Fazem dois anos"
+   ],
+   [
+    "Passiva sintética",
+    "concorda",
+    "Resgataram-se os sucessos",
+    "Resgatou-se os sucessos"
+   ],
+   [
+    "VTI + se",
+    "singular",
+    "Precisa-se de servidores",
+    "Precisam-se"
+   ],
+   [
+    "vir / ver",
+    "eles vêm / eles veem",
+    "vêm fazendo",
+    "vem fazendo (plural)"
+   ],
+   [
+    "meio / anexo / bastante",
+    "advérbio invariável; adjetivo varia",
+    "meio cansadas; anexos; bastantes interesses",
+    "meias cansadas; seguem anexo"
+   ]
+  ]
+ },
+ "Regência verbal e nominal": {
+  "colunas": [
+   "Verbo",
+   "Regência",
+   "Certo",
+   "Errado"
+  ],
+  "linhas": [
+   [
+    "lembrar",
+    "lembrar que / lembrar-se de que",
+    "lembrou-se de que",
+    "lembrou de que"
+   ],
+   [
+    "preferir",
+    "preferir A a B",
+    "prefiro X a Y",
+    "prefiro mais X do que Y"
+   ],
+   [
+    "assistir (ver)",
+    "a",
+    "assistir ao jogo",
+    "assistir o jogo"
+   ],
+   [
+    "obedecer, aspirar, visar",
+    "a",
+    "obedecer ao regimento",
+    ""
+   ],
+   [
+    "chegar / ir",
+    "a",
+    "chegou ao fórum",
+    "chegou no fórum"
+   ],
+   [
+    "implicar (acarretar)",
+    "direto",
+    "implica gastos",
+    "implica em gastos"
+   ],
+   [
+    "precisar",
+    "de (relativo leva a preposição)",
+    "de que precisamos",
+    "que precisamos"
+   ]
+  ]
+ },
+ "Pronomes e colocação pronominal": {
+  "colunas": [
+   "Caso",
+   "Regra",
+   "Certo",
+   "Errado"
+  ],
+  "linhas": [
+   [
+    "Objeto direto",
+    "o, a, os, as",
+    "odiava-os; tratava-a; festejavam-na",
+    "odiava-lhes; festejavam-lhe"
+   ],
+   [
+    "Objeto indireto",
+    "lhe, lhes",
+    "davam-lhe; deixando-lhes um legado",
+    "deixando-as um legado"
+   ],
+   [
+    "Palavra atrativa",
+    "próclise",
+    "que a aguardavam; não o vi",
+    "que aguardavam-na"
+   ],
+   [
+    "Futuro",
+    "mesóclise",
+    "lembrar-se-ão",
+    "lembrarão-se"
+   ],
+   [
+    "Início de frase",
+    "nunca oblíquo átono",
+    "Disseram-me",
+    "Me disseram; Se apercebendo"
+   ]
+  ]
+ },
+ "Pontuação": {
+  "colunas": [
+   "Caso",
+   "Vírgula?",
+   "Exemplo",
+   ""
+  ],
+  "linhas": [
+   [
+    "Sujeito – verbo",
+    "não",
+    "Os aprovados serão convocados",
+    ""
+   ],
+   [
+    "Verbo – complemento / predicativo",
+    "não",
+    "era uma inspiração",
+    ""
+   ],
+   [
+    "Vocativo, aposto, explicativa",
+    "sim",
+    "Senhor juiz, ...; O juiz, que presidia, ...",
+    ""
+   ],
+   [
+    "a saber, isto é, ou seja",
+    "sim",
+    "temas, a saber, política e justiça",
+    ""
+   ]
+  ]
+ },
+ "Conectivos e relações de sentido": {
+  "colunas": [
+   "Valor",
+   "Conectivos",
+   "",
+   ""
+  ],
+  "linhas": [
+   [
+    "Concessão",
+    "embora, ainda que, apesar de",
+    "",
+    ""
+   ],
+   [
+    "Oposição",
+    "mas, porém, contudo, todavia",
+    "",
+    ""
+   ],
+   [
+    "Causa / explicação",
+    "porque, pois (antes do verbo), já que",
+    "",
+    ""
+   ],
+   [
+    "Conclusão",
+    "portanto, logo, por isso",
+    "",
+    ""
+   ],
+   [
+    "Condição / finalidade",
+    "se, caso, desde que / para, a fim de",
+    "",
+    ""
+   ],
+   [
+    "Conformidade / proporção",
+    "conforme, segundo / à medida que",
+    "",
+    ""
+   ]
+  ]
+ },
+ "Negação e equivalência": {
+  "colunas": [
+   "Proposição",
+   "Negação",
+   "Equivalente",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "p → q",
+    "p e ~q",
+    "~q → ~p; ~p ou q",
+    "recíproca q → p NÃO é equivalente"
+   ],
+   [
+    "p e q",
+    "~p ou ~q",
+    "",
+    ""
+   ],
+   [
+    "p ou q",
+    "~p e ~q",
+    "~p → q",
+    ""
+   ],
+   [
+    "p ↔ q",
+    "ou p ou q",
+    "",
+    ""
+   ],
+   [
+    "Todo A é B",
+    "Algum A não é B",
+    "Não existe A que não seja B",
+    "não é \"Nenhum A é B\""
+   ],
+   [
+    "Algum A é B",
+    "Nenhum A é B",
+    "",
+    ""
+   ]
+  ]
+ },
+ "Problemas lógicos e sequências": {
+  "colunas": [
+   "Tipo",
+   "Método",
+   "",
+   ""
+  ],
+  "linhas": [
+   [
+    "Sequência com termo distante",
+    "ache o período; use o resto da divisão",
+    "",
+    ""
+   ],
+   [
+    "Algarismos enfileirados",
+    "conte algarismos por faixa (1, 2, 3 dígitos)",
+    "",
+    ""
+   ],
+   [
+    "Verdade/mentira",
+    "teste cada hipótese e conte as verdades",
+    "",
+    ""
+   ],
+   [
+    "Condicionais encadeados",
+    "comece pelo fato isolado e volte pelas contrapositivas",
+    "",
+    ""
+   ],
+   [
+    "Casa dos pombos",
+    "pior caso + 1",
+    "",
+    ""
+   ]
+  ]
+ },
+ "Porcentagem": {
+  "colunas": [
+   "Situação",
+   "Conta",
+   "Exemplo",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Sucessivos",
+    "multiplique os fatores",
+    "+10% e −10% → ×0,99",
+    "não se anulam"
+   ],
+   [
+    "Valor anterior",
+    "divida pelo fator",
+    "270 é 90% → 270 ÷ 0,9 = 300",
+    "somar 10% de 270 é erro"
+   ],
+   [
+    "Aumento para igualar",
+    "diferença ÷ menor",
+    "40 ÷ 160 = 25%",
+    "sobre o maior dá outro número"
+   ],
+   [
+    "Restantes",
+    "trabalhe com o que sobra",
+    "0,8 × 0,75 × 2/3",
+    ""
+   ]
+  ]
+ },
+ "Razão, proporção e regra de três": {
+  "colunas": [
+   "Situação",
+   "Método",
+   "Exemplo",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Direta",
+    "mais de um → mais do outro",
+    "processos × escreventes × dias",
+    ""
+   ],
+   [
+    "Inversa",
+    "mais de um → menos do outro",
+    "máquinas × dias; velocidade × tempo",
+    "inverta a fração antes de multiplicar"
+   ],
+   [
+    "Divisão proporcional",
+    "some as partes e divida",
+    "2, 3, 4 → 9 partes",
+    "inversamente a 2 e 5 = diretamente a 5 e 2"
+   ],
+   [
+    "Torneiras",
+    "some as frações por hora",
+    "1/6 + 1/3 = 1/2 → 2 h",
+    "não é a média dos tempos"
+   ]
+  ]
+ },
+ "Médias e equações": {
+  "colunas": [
+   "Situação",
+   "Método",
+   "Exemplo",
+   ""
+  ],
+  "linhas": [
+   [
+    "Média com troca de elementos",
+    "trabalhe com a SOMA",
+    "500 − 90 + 60 = 470",
+    ""
+   ],
+   [
+    "Nota que falta",
+    "média desejada × n − soma atual",
+    "5 × 7,4 − 28 = 9",
+    ""
+   ],
+   [
+    "Ponderada",
+    "Σ(nota × peso) ÷ Σ pesos",
+    "36 ÷ 5 = 7,2",
+    ""
+   ],
+   [
+    "Cabeças e pés / inteiras e meias",
+    "suponha todos do tipo menor e distribua a diferença",
+    "80 − 60 = 20 → 10 coelhos",
+    ""
+   ]
+  ]
+ },
+ "Divisibilidade, frações e tempo": {
+  "colunas": [
+   "Situação",
+   "Ferramenta",
+   "Exemplo",
+   ""
+  ],
+  "linhas": [
+   [
+    "Eventos que se repetem juntos",
+    "MMC",
+    "12 e 18 min → 36 min",
+    ""
+   ],
+   [
+    "Cortar em pedaços iguais máximos",
+    "MDC",
+    "48 e 72 → 24 cm",
+    ""
+   ],
+   [
+    "Frações do restante",
+    "multiplique o que sobra",
+    "2/3 × 3/4 = 1/2",
+    ""
+   ],
+   [
+    "Horas e minutos",
+    "60 min = 1 h",
+    "3 h 95 min = 4 h 35 min",
+    ""
+   ]
+  ]
+ },
+ "Proposições categóricas e conjuntos": {
+  "colunas": [
+   "Premissas",
+   "Conclusão válida",
+   "Inválida",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Todo A é B + Algum A é C",
+    "Algum C é B",
+    "Todo B é A",
+    "\"todo\" não se inverte"
+   ],
+   [
+    "Todo A é B + Nenhum B é C",
+    "Nenhum A é C",
+    "",
+    ""
+   ],
+   [
+    "Se p, q + não q",
+    "não p (modus tollens)",
+    "",
+    ""
+   ],
+   [
+    "Se p, q + q",
+    "nada",
+    "\"logo p\"",
+    "afirmar o consequente"
+   ],
+   [
+    "Se p, q + não p",
+    "nada",
+    "\"logo não q\"",
+    "negar o antecedente"
+   ],
+   [
+    "Conjuntos",
+    "n(A∪B) = n(A) + n(B) − n(A∩B)",
+    "",
+    "3 conjuntos: + n(A∩B∩C)"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "Estatuto PcD: disposições gerais (arts. 1º a 9º)": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Conceito (2º)",
+    "impedimento de LONGO PRAZO + barreiras",
+    "física, mental, intelectual ou sensorial",
+    "não basta o impedimento: modelo social"
+   ],
+   [
+    "Avaliação (2º, § 1º)",
+    "biopsicossocial",
+    "equipe multiprofissional e interdisciplinar",
+    "perícia pode ser por telemedicina (§ 3º, 2023)"
+   ],
+   [
+    "Girassóis (2º-A, 2023)",
+    "símbolo de deficiências ocultas",
+    "uso opcional",
+    "não dispensa documento, se pedido"
+   ],
+   [
+    "Barreiras (3º, IV)",
+    "urbanísticas = vias e espaços abertos",
+    "arquitetônicas = edifícios",
+    "+ transportes, comunicações, atitudinais, tecnológicas"
+   ],
+   [
+    "Desenho universal (3º, II)",
+    "para TODAS as pessoas",
+    "sem adaptação ou projeto específico",
+    ""
+   ],
+   [
+    "Ação afirmativa (4º, § 2º)",
+    "não é obrigatória para a PcD",
+    "recusar adaptação razoável = discriminação",
+    ""
+   ],
+   [
+    "Capacidade civil (6º)",
+    "não é afetada pela deficiência",
+    "casar, ter filhos, adotar, ser curador",
+    "esterilização compulsória vedada"
+   ],
+   [
+    "Prioridade (9º)",
+    "inclui tramitação processual e restituição de IR",
+    "estende-se ao acompanhante/atendente",
+    "EXCETO esses dois (VI e VII); emergência segue protocolo médico"
+   ]
+  ]
+ },
+ "Estatuto PcD: vida, consentimento e trabalho": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Exceção",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Institucionalização (11)",
+    "ninguém é obrigado",
+    "consentimento do curatelado pode ser suprido na forma da lei",
+    "não é decisão livre do curador"
+   ],
+   [
+    "Sem consentimento (13)",
+    "só risco de morte e emergência em saúde",
+    "resguardado o superior interesse",
+    "não é \"a critério do médico\""
+   ],
+   [
+    "Pesquisa com curatelado (12, § 2º)",
+    "excepcional",
+    "benefício direto e sem alternativa comparável",
+    ""
+   ],
+   [
+    "Trabalho (34)",
+    "PJ pública, privada ou de qualquer natureza",
+    "vedada exigência de aptidão plena",
+    "vale para exame admissional e periódico"
+   ],
+   [
+    "Habilitação em empresa (36, § 6º)",
+    "conta para a reserva de vagas",
+    "contrato por tempo determinado",
+    ""
+   ],
+   [
+    "Banca de concurso (38)",
+    "obrigada ao Estatuto",
+    "processo seletivo público OU privado",
+    ""
+   ]
+  ]
+ }
+}

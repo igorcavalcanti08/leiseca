@@ -1,0 +1,592 @@
+{
+ "Teletrabalho (Res. 850/2021)": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Número",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Direitos (3º)",
+    "mantém os do presencial",
+    "inclui auxílio-alimentação",
+    "perde só o auxílio-transporte"
+   ],
+   [
+    "Custos (4º e 20)",
+    "nenhuma despesa ao TJ",
+    "",
+    "não existe auxílio tecnológico"
+   ],
+   [
+    "Limite (9º)",
+    "1º grau: até 50% do quadro",
+    "Presidência, Vice, CGJ, Seções: até 70%",
+    "gabinetes: o juiz define"
+   ],
+   [
+    "Vedações (11)",
+    "1º ano do estágio probatório; punição nos últimos 2 anos",
+    "desligado ou removido nos últimos 6 meses",
+    "o 2º ano do estágio já permite"
+   ],
+   [
+    "Produtividade (18)",
+    "SUPERIOR à presencial",
+    "meta cumprida = jornada",
+    "sem banco de horas nem hora extra"
+   ],
+   [
+    "Desligamento (19)",
+    "pedido, metas, interesse da Administração",
+    "volta ao presencial em até 5 dias úteis",
+    "esclarecimentos: 2 dias úteis (13)"
+   ],
+   [
+    "Magistrados (24)",
+    "entrância final ou intermediária com +3 varas: 3 dias no fórum",
+    "demais: 4 dias",
+    ""
+   ]
+  ]
+ },
+ "eproc (Res. 963/2025)": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Implantação (10–11)",
+    "competência implantada: novos processos SÓ no eproc",
+    "processos antigos ficam no legado, salvo migração",
+    "não há 60 dias de convivência"
+   ],
+   [
+    "Cumprimento de sentença",
+    "no eproc: petição autônoma",
+    "de processo do legado: no próprio legado",
+    ""
+   ],
+   [
+    "Sistema errado (14)",
+    "responsabilidade EXCLUSIVA do peticionante",
+    "ato não produz efeitos",
+    "não há intimação para regularizar"
+   ],
+   [
+    "Indisponibilidade (21)",
+    "+60 min entre 12h e 23h, ou qualquer tempo entre 23h01 e 0h",
+    "prorroga para o dia útil seguinte",
+    "0h01–11h59, feriados e fins de semana: não prorroga"
+   ],
+   [
+    "Tempestividade (26)",
+    "até 24h do último dia",
+    "horário de Brasília",
+    ""
+   ],
+   [
+    "Agravo (34)",
+    "interposto no 1º grau",
+    "só a petição com as razões",
+    "sem cópias do processo"
+   ],
+   [
+    "Governança (4º)",
+    "CGe, NGN, NGT",
+    "usuário externo: Comitê Interinstitucional",
+    ""
+   ]
+  ]
+ },
+ "Plano de Cargos e Carreiras (LC 1.111/2010)": {
+  "colunas": [
+   "Instituto",
+   "Conceito",
+   "Requisito",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Estágio probatório (11)",
+    "36 meses",
+    "",
+    ""
+   ],
+   [
+    "Progressão (13)",
+    "grau → grau seguinte",
+    "1 ano no grau + avaliação positiva",
+    "recurso ao Comitê de RH em 30 dias"
+   ],
+   [
+    "Promoção (21)",
+    "nível e grau seguinte",
+    "1 ano no último grau + cursos",
+    ""
+   ],
+   [
+    "Acesso (29–31)",
+    "cargo em comissão de chefia",
+    "experiência anterior (inclusive substituição) ou critérios do Comitê de RH; 3 avaliações positivas",
+    "Chefe de Seção: 100% de efetivos; Diretor: 70%"
+   ],
+   [
+    "AQ (37-A/B)",
+    "doutor 20, mestre 15, especialização 10, graduação 7,5%",
+    "sem cumulação",
+    "não vale curso exigido para o cargo"
+   ]
+  ]
+ },
+ "Regimento Interno: sessões e julgamento": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Número",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Ata (120–122)",
+    "aprovada na sessão SUBSEQUENTE",
+    "reclamação em 48h",
+    "não é aprovada na própria sessão"
+   ],
+   [
+    "Pauta (123, 127)",
+    "publicada 5 dias antes",
+    "sem pauta: HC, desaforamento, conflitos, embargos de declaração criminais",
+    ""
+   ],
+   [
+    "Feriado (124)",
+    "julga na sessão ordinária seguinte",
+    "SEM nova publicação",
+    ""
+   ],
+   [
+    "Relator (134)",
+    "sem relator não se julga",
+    "salvo se se afastar após iniciado",
+    "vogal ausente pode ser substituído"
+   ],
+   [
+    "Divergência (138)",
+    "média dos votos ou voto intermediário",
+    "agravo empatado: mantém a decisão",
+    "criminal: mais favorável ao réu"
+   ],
+   [
+    "Ausências (134) — AR 587/2023",
+    "sem relator, não julga; revisor ausente adia",
+    "substitui-se se afastado > 40 dias",
+    "vogal ausente não adia, nem no julgamento convertido de virtual"
+   ],
+   [
+    "Sustentação oral (146)",
+    "inscrição prévia por e-mail: ≥ 24 h antes",
+    "videoconferência: até o dia anterior",
+    "execução penal: máx. 5 min (§ 4º-A)"
+   ],
+   [
+    "Sem sustentação (146, § 4º)",
+    "ED, suspeição, conflito, arquivamento de IP, agravo",
+    "exceto AI de tutela provisória e interno do 937, VI",
+    "tempo dividido entre advogados da parte (149)"
+   ],
+   [
+    "Votação (152–154)",
+    "relator, revisor, depois por antiguidade",
+    "Presidente só vota: constitucional, desempate, relator nato",
+    "maioria simples, salvo regra diversa"
+   ],
+   [
+    "Acórdão (155–163)",
+    "vencido o relator: redige o 1º da tese vencedora",
+    "redator afastado > 60 dias: o seguinte na votação",
+    "conclusões publicadas em 5 dias do registro"
+   ],
+   [
+    "Agravo regimental (253–255)",
+    "de decisão monocrática, SEM efeito suspensivo",
+    "15 dias; falta de peça: 5 dias para sanar",
+    "mantida a decisão, vai à mesa sem pauta"
+   ],
+   [
+    "Juiz certo (108–109)",
+    "quem tem visto ou pediu adiamento",
+    "deixa de ser se afastado > 60 dias",
+    "afastamento não rompe prevenção (105, § 1º)"
+   ]
+  ]
+ },
+ "Normas CGJ: correições e procedimentos disciplinares": {
+  "colunas": [
+   "Ato",
+   "Regra",
+   "Prazo",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Correição ordinária (8º)",
+    "1×/ano, de preferência em DEZEMBRO",
+    "edital 15 dias antes; ata em até 60 dias",
+    ""
+   ],
+   [
+    "Correição extraordinária (6º)",
+    "a qualquer momento, SEM anúncio",
+    "geral ou parcial; ata em até 15 dias",
+    ""
+   ],
+   [
+    "Visita correcional (9º)",
+    "independe de edital",
+    "em até 30 dias após assumir; ata em até 15 dias",
+    "presídios: 1×/mês (13)"
+   ],
+   [
+    "Escrivão (10–11)",
+    "auxilia; pode haver escrivão ad hoc",
+    "todos à disposição",
+    "sem anuência do titular"
+   ],
+   [
+    "Corregedor Permanente (7º)",
+    "CGJ pode alterar",
+    "com aprovação do CSM",
+    ""
+   ],
+   [
+    "Procedimentos (15)",
+    "apuração preliminar se autoria indefinida",
+    "sindicância: repreensão, suspensão, multa; processo: demissão",
+    "instauração por PORTARIA; dias corridos"
+   ]
+  ]
+ },
+ "Normas CGJ: sistema informatizado e escrituração": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Senha (49)",
+    "vedado ceder",
+    "",
+    ""
+   ],
+   [
+    "Auditoria (51)",
+    "SEMANAL",
+    "",
+    "não mensal"
+   ],
+   [
+    "Controle (57)",
+    "EXCLUSIVAMENTE no sistema",
+    "vedadas fichas",
+    ""
+   ],
+   [
+    "Segredo (61 § 2º)",
+    "pode ser automático",
+    "",
+    ""
+   ],
+   [
+    "Retificação (62)",
+    "não se estende a outro juízo",
+    "",
+    ""
+   ],
+   [
+    "Testemunha ameaçada (55 § 3º)",
+    "dados omitidos com deferimento do juiz",
+    "acusação, defesa ou comum",
+    ""
+   ],
+   [
+    "Escrituração (81–82)",
+    "evitar 'sem efeito'",
+    "vedadas chancela do juiz e abreviaturas (com exceções)",
+    ""
+   ],
+   [
+    "Assinatura (85)",
+    "escrivão assina por ordem do juiz",
+    "juiz assina: pensão alimentícia, AUTORIDADES, casos em lei",
+    "cartas postais dispensam assinatura"
+   ]
+  ]
+ },
+ "Normas CGJ: certidões, carga e arquivo": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Prazo",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Certidão (104)",
+    "5 dias do pedido",
+    "objeto e pé por e-mail entre ofícios: 5 dias úteis",
+    "segredo: despacho do juiz, salvo parte ou procurador"
+   ],
+   [
+    "Acesso (157)",
+    "advogado, estagiário e público em geral",
+    "no balcão, sem procuração",
+    ""
+   ],
+   [
+    "Carga (164)",
+    "sem prazo correndo: mediante requerimento",
+    "prazo comum: cópias por 2 a 6h",
+    "proibido reter documento do advogado (166)"
+   ],
+   [
+    "Arquivamento (177–178)",
+    "30 dias no cartório",
+    "execução em outro juízo: arquiva o juízo da execução",
+    ""
+   ],
+   [
+    "Desarquivamento (181–188)",
+    "com taxa",
+    "30 dias para manifestação",
+    "vedado ir ao arquivo terceirizado"
+   ]
+  ]
+ },
+ "Normas CGJ: processo eletrônico": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Petição intermediária (1.220)",
+    "peticionamento eletrônico",
+    "materializado: aceita papel até voltar ao eletrônico",
+    ""
+   ],
+   [
+    "Papel indevido (1.221)",
+    "protocolo cancela e intima pelo DJE",
+    "foros digitais: protocolo integrado para processos físicos de outras comarcas",
+    "não é por carta"
+   ],
+   [
+    "Indisponibilidade (1.222)",
+    "papel aceito",
+    "ofício digitaliza; parte retira em 45 dias",
+    ""
+   ],
+   [
+    "Modelos (1.237–1.238)",
+    "institucionais aprovados pela CGJ",
+    "modelos de grupo sempre que cabível",
+    "não é o Juiz Diretor"
+   ],
+   [
+    "Indisponibilidade NSCGJ (1.205)",
+    "> 60 min entre 6h e 23h, ou entre 23h e 24h",
+    "0h–6h, feriado e fim de semana: não prorroga",
+    "no eproc a janela é 12h–23h"
+   ],
+   [
+    "Indisponibilidade severa (1.205-B)",
+    "> 3 h entre 9h e 19h",
+    "2+ dias seguidos: suspende a partir do 2º dia",
+    "audiências continuam"
+   ],
+   [
+    "Tempestividade (1.198)",
+    "até 24 h do último dia (Brasília)",
+    "dia sem expediente: protocolo no 1º dia útil",
+    "suspensão de prazo não impede peticionar (1.201)"
+   ],
+   [
+    "Consulta (1.225–1.226-A)",
+    "segredo: só partes e procuradores habilitados",
+    "terceiro: senha válida por 24 h",
+    ""
+   ]
+  ]
+ },
+ "Regimento Interno: organização e órgãos": {
+  "colunas": [
+   "Órgão",
+   "Composição",
+   "Quem preside / elege",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Tribunal Pleno (4º)",
+    "todos os desembargadores",
+    "elege Presidente, Vice, Corregedor e 12 do OE",
+    "Ouvidor NÃO é eleito pelo Pleno"
+   ],
+   [
+    "Órgão Especial (8º e 11)",
+    "25 desembargadores",
+    "instala-se com no mínimo 13",
+    "não são 30"
+   ],
+   [
+    "CSM (15)",
+    "Presidente, Vice, Corregedor, Decano, Presidentes de Seção",
+    "preside: Presidente do TJ; empate: voto dele",
+    "aprova suspensão de expediente em feriado municipal (16, XV)"
+   ],
+   [
+    "Câmara Especial (33)",
+    "Presidentes de Seção + Decano",
+    "preside: VICE-Presidente",
+    "julga Infância e Juventude e suspeição de juiz de 1º grau"
+   ],
+   [
+    "Câmara Especial de Presidentes (33-A)",
+    "Presidente, Vice, Presidentes de Seção",
+    "preside: PRESIDENTE do TJ",
+    "não confundir com a Câmara Especial"
+   ],
+   [
+    "Ouvidoria (29-A) — AR 589/2024",
+    "Ouvidor + Substituto (chapa)",
+    "eleitos pelo ÓRGÃO ESPECIAL, 2 anos, 1 reeleição",
+    "máx. 4 anos seguidos; não acumula com cargo diretivo"
+   ],
+   [
+    "Eleição de direção (17–22)",
+    "2ª quarta-feira de novembro",
+    "voto secreto; empate: o mais ANTIGO",
+    "vaga com < 6 meses: só substituição"
+   ],
+   [
+    "Substituição (24)",
+    "Presidente → Vice → Decano",
+    "Vice e Corregedor → Decano",
+    "não é o Corregedor que substitui o Presidente"
+   ]
+  ]
+ },
+ "Normas CGJ: rotinas do ofício de justiça": {
+  "colunas": [
+   "Ato",
+   "Prazo / regra",
+   "Detalhe",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Autuação (87)",
+    "24 horas",
+    "dispensa certidão de autuação",
+    "não são 48 h"
+   ],
+   [
+    "Volume (89)",
+    "até 200 folhas",
+    "salvo ordem judicial ou peça com anexos",
+    ""
+   ],
+   [
+    "Erro de numeração (91)",
+    "certifica",
+    "repetida: 188-a, 188-b",
+    "VEDADA a renumeração"
+   ],
+   [
+    "Juntada (93)",
+    "um termo único para várias peças",
+    "procuração pode vir direto ao cartório (92, I)",
+    "termo NUNCA na própria petição"
+   ],
+   [
+    "Conclusão / atos (97)",
+    "1 dia / 5 dias",
+    "conclusão diária, sem limite de número",
+    ""
+   ],
+   [
+    "Paralisação (99)",
+    "máx. 30 dias aguardando diligência",
+    "reitera UMA vez, depois conclusão",
+    "réu preso parado > 3 meses → juiz informa a CGJ"
+   ],
+   [
+    "Ponto (33–34)",
+    "biométrico na entrada e saída",
+    "documentos guardados 5 anos",
+    "depois entregues ao servidor"
+   ],
+   [
+    "Desentranhamento (170–174)",
+    "retirada em 5 dias",
+    "objetos após trânsito: 30 dias",
+    "intempestiva/estranha: sem cópia substitutiva"
+   ]
+  ]
+ },
+ "Normas CGJ: intimações e audiências": {
+  "colunas": [
+   "Tema",
+   "Regra",
+   "Número",
+   "Pegadinha"
+  ],
+  "linhas": [
+   [
+    "Publicação (133)",
+    "despachos e decisões ao DJE",
+    "até 3 dias da devolução",
+    "informar por telefone é VEDADO (132)"
+   ],
+   [
+    "Nulidade (136)",
+    "publicação omissa",
+    "só se houver efetivo prejuízo",
+    ""
+   ],
+   [
+    "Segredo de justiça (138)",
+    "só as iniciais das partes",
+    "inclusive na sentença e no DJEN",
+    ""
+   ],
+   [
+    "Edital em jornal (141, III)",
+    "providenciado pela parte",
+    "prova: exemplar original",
+    "DJE/sítio: prova por certidão"
+   ],
+   [
+    "Audiência (143–148)",
+    "designação exclusiva do juiz",
+    "exame dos processos 10 dias antes",
+    "juizados especiais: exceção"
+   ],
+   [
+    "Gravação (152–156-A)",
+    "depoimento audiovisual não se transcreve",
+    "salvo recurso sem envio eletrônico",
+    "oitiva em outra comarca SP: estação passiva, não precatória"
+   ]
+  ]
+ }
+}
